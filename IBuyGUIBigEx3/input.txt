@@ -1,0 +1,213 @@
+// add new product - Product(productID, productName, price)
+addProduct 011111 Iphone6s 700
+addProduct 011112 Iphone6sCase 2
+addProduct 011113 LgG5 550
+addProduct 011114 Beats 200
+addProduct 011115 SamsungS7Case 4
+addProduct 011113 LgG5Case 3
+// ===============================================================================================================
+// add new seller account - Customer(accountNumber, firstName, lastName, birthDate, password, email, address)____ Address(country, city, street, housNumber, phoneNumber)
+addSeller 00099991 Gilad  Levi  01/01/1988 gilad234 hTTp:\\gilad@Gmail.com Israel  Herzliya Herzel 22 052-8090939
+addSeller 00099992 Avi  Vizman 02/01/1990 avi234 hTTp:\\avi@Hotmail.co.il Israel  Holon Herzel 22 052-8198765
+addSeller 00099993 Dor  Kam 07/03/1979 dor234 hTTp:\\dor@Walla.co.il Israel  Modiin_Illit Gidon 22 052-8020003
+addSeller 00099994 Shani  Iluz 05/05/1978 shani234 hTTp:\\shani@Walla.co.il Israel  Ofakim Ezra 66 052-8200277
+addSeller 00099995 Gabi  Avni 08/01/1978 gabi234 hTTp:\\gabi@Walla.co.il Israel  Ramat_HaSharon Robert-Sold 11 052-8300200
+addSeller 00099996 Lea  Arnon 09/11/1978 arnon234 hTTp:\\arnon@Walla.co.il Israel  Kiryat_Yam Elisheva 66 052-8011011
+addSeller 00099993 Shani  Yosef 07/03/1979 dor234 hTTp:\\dor@Walla.co.il Israel  Modiin_Illit Gidon 22 052-8020003
+addSeller 00099997 Elad  Hen 08/11/1976 elad234 hTTp:\\elad@Gmail.com Israel  Nahariya Agahaton 75 052-8030003
+addSeller 00099998 Shai  Alush 09/11/1976 shai234 hTTp:\\shai@Gmail.com Israel  Haifa Moria 36 052-8108880
+addSeller 00099999 Ben  Kim 10/11/1979 ben234 hTTp:\\ben@Gmail.com Israel  Kafr_Qasim Golan 71 052-8902229
+addSeller 00099910 Talya  Amar 19/09/1983 talya234 hTTp:\\talya@Gmail.com USA  California Fifth-evn 60 052-8222044
+// ===============================================================================================================
+// add new buyer account - Customer(accountNumber, firstName, lastName, birthDate, password, email, address)____ Address(country, city, street, housNumber, phoneNumber)
+addBuyer 00089912 Natali  Hemo 15/11/1990 natali234 hTTp:\\natali@Gmail.com Israel  Maale_Adumim Herzel 29 052-8999100
+addBuyer 00089913 Shaked  Lev 14/02/1979 shaked234 hTTp:\\shaked@Gmail.com Israel  Modiin_Illit Gidon 49 052-8120444
+addBuyer 00089914 Dan  Himan 25/01/1978 dan234 hTTp:\\dan11@Gmail.com Israel  Ofakim Ezra 27 052-8772002
+addBuyer 00089915 Din  Gal 26/11/1978 din234 hTTp:\\din@Gmail.com Israel  Ramat_HaSharon Robert-Sold 21 052-8511114
+addBuyer 00089916 Don  Roz 27/10/1978 don234 hTTp:\\don@Gmail.com Israel  Kiryat_Yam Elisheva 27 052-8300355
+addBuyer 00089917 Oshri  Mimon 28/04/1976 oshri234 hTTp:\\oshri@Gmail.com Israel  Nahariya Agahaton 24 052-8100408
+addBuyer 00089918 Zvika  Ronen 22/06/1976 zvika234 hTTp:\\zvika@Gmail.com Israel  Haifa Moria 61 052-8400250
+addBuyer 00089919 Yossi  Shabat 20/08/1979 yossi234 hTTp:\\yossi@Gmail.com Israel  Kafr_Qasim Golan 13 052-8131313
+addBuyer 00089920 Meira  Levi 24/09/1983 meira234 hTTp:\\meira@Gmail.com USA  California Fifth-evn 18 052-8455122
+// ===============================================================================================================
+// add new FlightAttendant to CompanyName FlightAttendant(employeeNumber, firstName, lastName, birthDate, startWorkingDate, password, address, rank)____ Address(country, city, street, housNumber, phoneNumber)
+addFlightAttendant 0000111 Ella  Gil  02/06/1990 01/01/1999 lony1234 2  Russian  Moscow Biana 11 052-8217127
+addFlightAttendant 0000112 Magi  Dayan 03/07/1981 01/01/2001 magi1234 3  Israel  Maale_Adumim Herzel 10 052-8676760
+addFlightAttendant 0000113 Paz  Arel 04/08/1979 01/01/2002 paz1234 4.5 Israel  Modiin_Illit Gidon 43 052-8444999
+addFlightAttendant 0000114 Mor  Geva 05/08/1978 01/01/2003 mor1234 5 Israel  Ofakim Ezra 55 052-8666432
+addFlightAttendant 0000115 Alon  Ziv 06/12/1978 01/01/2004 alon1234 6 Israel  Ramat_HaSharon Robert-Sold 2 052-8190190
+addFlightAttendant 0000116 Karin  Kats 07/11/1978 01/01/2005 karin1234 3 Israel  Kiryat_Yam Elisheva 34 052-8923932
+addFlightAttendant 0000117 Hila  Levin 08/10/1976 01/01/2006 hila1234 2.5 Israel  Nahariya Agahaton 90 052-8662211
+addFlightAttendant 0000118 Yana  Alush 09/03/1976 01/01/2007 yana1234 1 Israel  Haifa Moria 33 052-8615888
+addFlightAttendant 0000119 Anna  Eden 10/05/1979 01/01/2008 anna1234 1 Israel  Kafr_Qasim Golan 3 052-8112256
+addFlightAttendant 0000120 Roze  Sore 11/01/1983 01/01/2009 roze1234 7 USA  California Fifth-evn 22 052-8743721
+// ===============================================================================================================
+// add new pilot to CompanyName Pilot(employeeNumber, firstName, lastName, birthDate, startWorkingDate, password, license, address)____ Address(country, city, street, housNumber, phoneNumber)
+addPilot 0000221 Ron  Gil  02/09/1990 01/01/2010 ron1234 Russian  Moscow Biana 16 052-8121003
+addPilot 0000222 Zvi  Dayan 03/11/1981 01/01/2001 zvi1234 Israel  Maale_Adumim Herzel 19 052-8101921
+addPilot 0000223 Sami  Arel 04/11/1979 01/01/2002 sami1234 Israel  Modiin_Illit Gidon 73 052-8550043
+addPilot 0000224 Bar  Geva 05/01/1978 01/01/2003 bar1234 Israel  Ofakim Ezra 59 052-8880771
+addPilot 0000225 Nadav  Ziv 06/11/1978 01/01/2004 nadav1234 Israel  Ramat_HaSharon Robert-Sold 23 052-8911118
+addPilot 0000226 Oz  Kats 07/10/1978 01/01/2005 oz1234 Israel  Kiryat_Yam Elisheva 22 052-8766101
+addPilot 0000227 Boaz  Levin 08/04/1976 01/01/1998 boaz1234 Israel  Nahariya Agahaton 21 052-8544499
+addPilot 0000228 Shani  Alush 09/06/1976 01/01/2007 shani1234 Israel  Haifa Moria 87 052-8606088
+addPilot 0000229 Gila  Eden 10/08/1979 01/01/2006 gila1234 Israel  Kafr_Qasim Golan 45 052-8511001
+addPilot 0000230 Noa  Levi 14/09/1983 01/01/2009 noa1234 USA  California Fifth-evn 76 052-8303301
+// ===============================================================================================================
+// add license to a pilot AddLicenseToPilot(employee,license)
+addLicenseToPilot 0000221 BOEING737
+addLicenseToPilot 0000221 BOEING747
+addLicenseToPilot 0000221 BOEING737
+addLicenseToPilot 0000222 AIRBUSA320
+addLicenseToPilot 0000223 BOEING737
+addLicenseToPilot 0000223 BOEING747
+addLicenseToPilot 0000224 BOEING737
+addLicenseToPilot 0000225 AIRBUSA340
+addLicenseToPilot 0000226 BOEING737
+addLicenseToPilot 0000227 AIRBUSA320
+addLicenseToPilot 0000227 AIRBUSA319
+addLicenseToPilot 0000227 AIRBUSA320
+addLicenseToPilot 0000228 BOEING737
+addLicenseToPilot 0000229 AIRBUSA320
+addLicenseToPilot 0000229 AIRBUSA340
+addLicenseToPilot 0000230 BOEING777
+// ===============================================================================================================
+// add new flight - Flight(flightNumber, flightDateAndTimeSource, flightDateAndTimeDestination, flightCost, source, destination, airplane)____ Airplane(airplaneNumber,E_Airplanes)
+addFlight 001111 01/09/2016 02/09/2016 30.5 MAD BRC 999001 BOEING737
+addFlight 001112 21/09/2016 22/09/2016 35.0 BRC MAD 999002 BOEING747
+addFlight 001113 12/09/2016 13/09/2016 23.0 HFA HFA 999003 BOEING737
+addFlight 001114 11/09/2016 12/09/2016 23.0 AMS MAD 999004 AIRBUSA340
+addFlight 001115 21/09/2016 22/09/2016 9.0 MAD BRC 999005 AIRBUSA320
+addFlight 001116 01/09/2016 02/09/2016 9.0 TLV RIO 999006 AIRBUSA319
+addFlight 001117 01/09/2016 02/09/2016 7.0 RIO TLV 999007 BOEING737
+addFlight 001118 12/09/2016 13/09/2016 9.0 AMS RIO 999008 BOEING777
+addFlight 001119 10/11/2016 11/11/2016 1.0 AMS BRC 999009 AIRBUSA320
+addFlight 001110 27/08/2016 28/08/2016 14.0 AMS RIO 999010 AIRBUSA320
+addFlight 001121 26/09/2016 27/09/2016 23.0 HFA SAO 999011 BOEING737
+addFlight 001122 03/10/2016 04/10/2016 21.0 AMS SAO 999012 AIRBUSA320
+addFlight 001123 23/12/2016 24/12/2016 2.0 HFA MAD 999013 AIRBUSA320
+addFlight 001124 25/12/2016 26/12/2016 2.0 BRC KYV 999014 BOEING747
+addFlight 001125 16/11/2016 15/11/2016 5.0 AMS MAD 999015 AIRBUSA340
+addFlight 001126 19/09/2016 20/09/2016 3.0 MAD SAO 999016 AIRBUSA320
+addFlight 001130 20/09/2016 21/09/2016 3.0 SAO AMS 999017 AIRBUSA319
+addFlight 001127 19/09/2016 18/09/2016 6.0 TLV SAO 999018 AIRBUSA319
+addFlight 001128 01/10/2016 02/10/2016 4.0 TLV RIO 999019 BOEING737
+addFlight 001129 01/10/2016 02/10/2016 6.0 BRC KYV 999020 BOEING737
+addFlight 001120 01/10/2016 02/10/2016 15.0 BRC KYV 999021 BOEING777
+// ===============================================================================================================
+// add an existing pilot or FlightAttendant to flight addPilotOrFlightAttendantToFlight(employee, flight)
+addPilotOrFlightAttendantToFlight 0000111 00001111
+addPilotOrFlightAttendantToFlight 0000111 00001111 
+addPilotOrFlightAttendantToFlight 0000111 00001121
+addPilotOrFlightAttendantToFlight 0000115 00001121
+addPilotOrFlightAttendantToFlight 0000223 00001121
+addPilotOrFlightAttendantToFlight 0000229 00001121
+addPilotOrFlightAttendantToFlight 0000112 00001121 
+addPilotOrFlightAttendantToFlight 0000111 00001112
+addPilotOrFlightAttendantToFlight 0000111 00001112
+addPilotOrFlightAttendantToFlight 0000111 00001122
+addPilotOrFlightAttendantToFlight 0000112 00001122
+addPilotOrFlightAttendantToFlight 0000112 00001123
+addPilotOrFlightAttendantToFlight 0000113 00001114
+addPilotOrFlightAttendantToFlight 0000113 00001123
+addPilotOrFlightAttendantToFlight 0000114 00001114
+addPilotOrFlightAttendantToFlight 0000114 00001115
+addPilotOrFlightAttendantToFlight 0000115 00001112
+addPilotOrFlightAttendantToFlight 0000116 00001111
+addPilotOrFlightAttendantToFlight 0000116 00001117
+addPilotOrFlightAttendantToFlight 0000117 00001118
+addPilotOrFlightAttendantToFlight 0000117 00001120
+addPilotOrFlightAttendantToFlight 0000222 00001120
+addPilotOrFlightAttendantToFlight 0000223 00001120
+addPilotOrFlightAttendantToFlight 0000225 00001120
+addPilotOrFlightAttendantToFlight 0000227 00001120
+addPilotOrFlightAttendantToFlight 0000229 00001120
+addPilotOrFlightAttendantToFlight 0000118 00001128
+addPilotOrFlightAttendantToFlight 0000118 00001114
+addPilotOrFlightAttendantToFlight 0000118 00001116
+addPilotOrFlightAttendantToFlight 0000226 00001116
+addPilotOrFlightAttendantToFlight 0000222 00001119
+addPilotOrFlightAttendantToFlight 0000223 00001119
+addPilotOrFlightAttendantToFlight 0000225 00001119
+addPilotOrFlightAttendantToFlight 0000117 00001119
+addPilotOrFlightAttendantToFlight 0000119 00001118
+addPilotOrFlightAttendantToFlight 0000111 00001128
+addPilotOrFlightAttendantToFlight 0000221 00001128
+addPilotOrFlightAttendantToFlight 0000221 00001117
+addPilotOrFlightAttendantToFlight 0000221 00001118
+addPilotOrFlightAttendantToFlight 0000222 00001123
+addPilotOrFlightAttendantToFlight 0000224 00001123
+addPilotOrFlightAttendantToFlight 0000225 00001123
+addPilotOrFlightAttendantToFlight 0000227 00001123
+addPilotOrFlightAttendantToFlight 0000223 00001122
+addPilotOrFlightAttendantToFlight 0000224 00001122
+addPilotOrFlightAttendantToFlight 0000224 00001112
+addPilotOrFlightAttendantToFlight 0000225 00001129
+addPilotOrFlightAttendantToFlight 0000226 00001129
+addPilotOrFlightAttendantToFlight 0000221 00001129
+addPilotOrFlightAttendantToFlight 0000116 00001129
+addPilotOrFlightAttendantToFlight 0000226 00001115
+addPilotOrFlightAttendantToFlight 0000228 00001114
+addPilotOrFlightAttendantToFlight 0000228 00001115
+addPilotOrFlightAttendantToFlight 0000229 00001114
+addPilotOrFlightAttendantToFlight 0000229 00001124
+addPilotOrFlightAttendantToFlight 0000222 00001124
+addPilotOrFlightAttendantToFlight 0000118 00001124
+addPilotOrFlightAttendantToFlight 0000113 00001124
+// ===============================================================================================================
+// add a new step airport to an existing flight in CompanyName addStepInToFlight(flightNumber, airport)
+addStepInToFlight 001111 HFA
+addStepInToFlight 001111 MAD
+addStepInToFlight 001112 HFA
+addStepInToFlight 001112 TLV  
+addStepInToFlight 001114 RIO
+addStepInToFlight 001114 BRC 
+addStepInToFlight 001116 AMS
+addStepInToFlight 001116 MAD
+addStepInToFlight 001117 MAD
+addStepInToFlight 001117 AMS
+addStepInToFlight 001112 HFA
+addStepInToFlight 001118 BRC
+addStepInToFlight 001118 MAD
+
+// ===============================================================================================================
+// add an existing product to order in - addParcel(buyerAccountNumber, sellerAccountNumber, orderNumber, productID, flightNumber)
+addParcel 00089912 00099991 55551 011111 001111  
+addParcel 00089919 00099998 55553 011115 001111 
+addParcel 00089912 00099991 55554 011113 001112  
+addParcel 00089919 00099996 55515 011112 001114 
+addParcel 00099998 00099920 55520 011114 001115
+addParcel 00089920 00099994 55516 011115 001118
+// ===============================================================================================================
+// changeSellerAddress(sellerAcountNumber, country, city, street, housNumber, phoneNumber)
+// changeBuyerAddress(buyerAcountNumber, country, city, street, housNumber, phoneNumber)
+changeSellerAddress 00099991 Israel Arad   Nahum 88 052-8090939
+changeSellerAddress 00099994 Israel Ofakim Ezra  2  052-8088977
+changeBuyerAddress 00099981 Israel Arad   Nahum 88 052-8090939
+changeSellerAddress 00099998 Israel Haifa  Horev 3  052-8108880
+// ===============================================================================================================
+// cancelOrder(orderNumber)
+cancelOrder 55558
+cancelOrder 55558
+cancelOrder 55552
+// ===============================================================================================================
+// getTheMostProfitableOrder()
+getTheMostProfitableOrder
+// ===============================================================================================================
+// getAllOrdersOfMostProfitableBuyer()
+getAllOrdersOfMostProfitableBuyer
+// ===============================================================================================================
+// flightAttendantOfTheMonth()
+flightAttendantOfTheMonth
+// ===============================================================================================================
+// getAllPilotsSortedBySeniority()
+getAllPilotsSortedBySeniority
+// ===============================================================================================================
+// getAllSellersSortedByName()
+getAllSellersSortedByName
+// ===============================================================================================================
+// getAllSellersSortedByRating()
+getAllSellersSortedByRating
+// ===============================================================================================================
+// getBuyersOrdersSortedByCost()
+getBuyersOrdersSortedByCost

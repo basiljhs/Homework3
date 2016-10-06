@@ -1,0 +1,4 @@
+package utils;
+
+public enum E_Airplanes {BOEING747,BOEING737,BOEING777,AIRBUSA319,AIRBUSA320,AIRBUSA340
+}

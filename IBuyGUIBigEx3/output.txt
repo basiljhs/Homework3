@@ -1,0 +1,400 @@
+
+
+addProduct returns: Successfully added Product with account 11111 to IBuy
+addProduct returns: Successfully added Product with account 11112 to IBuy
+addProduct returns: Successfully added Product with account 11113 to IBuy
+addProduct returns: Successfully added Product with account 11114 to IBuy
+addProduct returns: Successfully added Product with account 11115 to IBuy
+addProduct returns: Failed to add new Product with account 11113 to IBuy
+
+
+
+
+addSeller returns: Successfully added Seller with account 00099991 to IBuy
+addSeller returns: Successfully added Seller with account 00099992 to IBuy
+addSeller returns: Successfully added Seller with account 00099993 to IBuy
+addSeller returns: Successfully added Seller with account 00099994 to IBuy
+addSeller returns: Successfully added Seller with account 00099995 to IBuy
+addSeller returns: Successfully added Seller with account 00099996 to IBuy
+addSeller returns: Failed to add new Seller with account 00099993 to IBuy
+addSeller returns: Successfully added Seller with account 00099997 to IBuy
+addSeller returns: Successfully added Seller with account 00099998 to IBuy
+addSeller returns: Successfully added Seller with account 00099999 to IBuy
+addSeller returns: Successfully added Seller with account 00099910 to IBuy
+
+
+
+
+addBuyer returns: Successfully added Buyer with account 00089912 to IBuy
+addBuyer returns: Successfully added Buyer with account 00089913 to IBuy
+addBuyer returns: Successfully added Buyer with account 00089914 to IBuy
+addBuyer returns: Successfully added Buyer with account 00089915 to IBuy
+addBuyer returns: Successfully added Buyer with account 00089916 to IBuy
+addBuyer returns: Successfully added Buyer with account 00089917 to IBuy
+addBuyer returns: Successfully added Buyer with account 00089918 to IBuy
+addBuyer returns: Successfully added Buyer with account 00089919 to IBuy
+addBuyer returns: Successfully added Buyer with account 00089920 to IBuy
+
+
+
+
+addEmployee returns: Successfully added FlightAttendant 111 to IFly
+addEmployee returns: Successfully added FlightAttendant 112 to IFly
+addEmployee returns: Successfully added FlightAttendant 113 to IFly
+addEmployee returns: Successfully added FlightAttendant 114 to IFly
+addEmployee returns: Successfully added FlightAttendant 115 to IFly
+addEmployee returns: Successfully added FlightAttendant 116 to IFly
+addEmployee returns: Successfully added FlightAttendant 117 to IFly
+addEmployee returns: Successfully added FlightAttendant 118 to IFly
+addEmployee returns: Successfully added FlightAttendant 119 to IFly
+addEmployee returns: Successfully added FlightAttendant 120 to IFly
+
+
+
+
+addEmployee returns: Successfully added Pilot 221 to IFly
+addEmployee returns: Successfully added Pilot 222 to IFly
+addEmployee returns: Successfully added Pilot 223 to IFly
+addEmployee returns: Successfully added Pilot 224 to IFly
+addEmployee returns: Successfully added Pilot 225 to IFly
+addEmployee returns: Successfully added Pilot 226 to IFly
+addEmployee returns: Successfully added Pilot 227 to IFly
+addEmployee returns: Successfully added Pilot 228 to IFly
+addEmployee returns: Successfully added Pilot 229 to IFly
+addEmployee returns: Successfully added Pilot 230 to IFly
+
+
+
+
+addLicenseToPilot returns: Successfully added BOEING737 To Pilot 221 to IBuy
+addLicenseToPilot returns: Successfully added BOEING747 To Pilot 221 to IBuy
+addLicenseToPilot returns: Failed to add BOEING737 To Pilot 221 to IBuy
+addLicenseToPilot returns: Successfully added AIRBUSA320 To Pilot 222 to IBuy
+addLicenseToPilot returns: Successfully added BOEING737 To Pilot 223 to IBuy
+addLicenseToPilot returns: Successfully added BOEING747 To Pilot 223 to IBuy
+addLicenseToPilot returns: Successfully added BOEING737 To Pilot 224 to IBuy
+addLicenseToPilot returns: Successfully added AIRBUSA340 To Pilot 225 to IBuy
+addLicenseToPilot returns: Successfully added BOEING737 To Pilot 226 to IBuy
+addLicenseToPilot returns: Successfully added AIRBUSA320 To Pilot 227 to IBuy
+addLicenseToPilot returns: Successfully added AIRBUSA319 To Pilot 227 to IBuy
+addLicenseToPilot returns: Failed to add AIRBUSA320 To Pilot 227 to IBuy
+addLicenseToPilot returns: Successfully added BOEING737 To Pilot 228 to IBuy
+addLicenseToPilot returns: Successfully added AIRBUSA320 To Pilot 229 to IBuy
+addLicenseToPilot returns: Successfully added AIRBUSA340 To Pilot 229 to IBuy
+addLicenseToPilot returns: Successfully added BOEING777 To Pilot 230 to IBuy
+
+
+
+
+addFlight returns: Successfully added Flight 1111 to IBuy
+addFlight returns: Successfully added Flight 1112 to IBuy
+addFlight returns: Failed to add new Flight 1113 to IBuy
+addFlight returns: Successfully added Flight 1114 to IBuy
+addFlight returns: Successfully added Flight 1115 to IBuy
+addFlight returns: Successfully added Flight 1116 to IBuy
+addFlight returns: Successfully added Flight 1117 to IBuy
+addFlight returns: Successfully added Flight 1118 to IBuy
+addFlight returns: Successfully added Flight 1119 to IBuy
+addFlight returns: Successfully added Flight 1110 to IBuy
+addFlight returns: Successfully added Flight 1121 to IBuy
+addFlight returns: Successfully added Flight 1122 to IBuy
+addFlight returns: Successfully added Flight 1123 to IBuy
+addFlight returns: Successfully added Flight 1124 to IBuy
+addFlight returns: Failed to add new Flight 1125 to IBuy
+addFlight returns: Successfully added Flight 1126 to IBuy
+addFlight returns: Successfully added Flight 1130 to IBuy
+addFlight returns: Failed to add new Flight 1127 to IBuy
+addFlight returns: Successfully added Flight 1128 to IBuy
+addFlight returns: Successfully added Flight 1129 to IBuy
+addFlight returns: Successfully added Flight 1120 to IBuy
+
+
+
+
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1111 with FlightAttendant 111
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1111 with FlightAttendant 111
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1121 with FlightAttendant 111
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1121 with FlightAttendant 115
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1121 with Pilot 223
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1121 with Pilot 229
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1121 with FlightAttendant 112
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1112 with FlightAttendant 111
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1112 with FlightAttendant 111
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1122 with FlightAttendant 111
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1122 with FlightAttendant 112
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1123 with FlightAttendant 112
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1114 with FlightAttendant 113
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1123 with FlightAttendant 113
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1114 with FlightAttendant 114
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1115 with FlightAttendant 114
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1112 with FlightAttendant 115
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1111 with FlightAttendant 116
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1117 with FlightAttendant 116
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1118 with FlightAttendant 117
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1120 with FlightAttendant 117
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1120 with Pilot 222
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1120 with Pilot 223
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1120 with Pilot 225
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1120 with Pilot 227
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1120 with Pilot 229
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1128 with FlightAttendant 118
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1114 with FlightAttendant 118
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1116 with FlightAttendant 118
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1116 with Pilot 226
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1119 with Pilot 222
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1119 with Pilot 223
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1119 with Pilot 225
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1119 with FlightAttendant 117
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1118 with FlightAttendant 119
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1128 with FlightAttendant 111
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1128 with Pilot 221
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1117 with Pilot 221
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1118 with Pilot 221
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1123 with Pilot 222
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1123 with Pilot 224
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1123 with Pilot 225
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1123 with Pilot 227
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1122 with Pilot 223
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1122 with Pilot 224
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1112 with Pilot 224
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1129 with Pilot 225
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1129 with Pilot 226
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1129 with Pilot 221
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1129 with FlightAttendant 116
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1115 with Pilot 226
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1114 with Pilot 228
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1115 with Pilot 228
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1114 with Pilot 229
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1124 with Pilot 229
+addPilotOrFlightAttendantToFlight returns: Failed to associate Flight 1124 with Pilot 222
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1124 with FlightAttendant 118
+addPilotOrFlightAttendantToFlight returns: Successfully associated Flight 1124 with FlightAttendant 113
+
+
+
+
+addStepInToFlight returns: Successfully added a new stepping airport HFA to flight 1111
+addStepInToFlight returns: Failed to add a new stepping airport MAD to flight 1111
+addStepInToFlight returns: Successfully added a new stepping airport HFA to flight 1112
+addStepInToFlight returns: Successfully added a new stepping airport TLV to flight 1112
+addStepInToFlight returns: Successfully added a new stepping airport RIO to flight 1114
+addStepInToFlight returns: Successfully added a new stepping airport BRC to flight 1114
+addStepInToFlight returns: Successfully added a new stepping airport AMS to flight 1116
+addStepInToFlight returns: Successfully added a new stepping airport MAD to flight 1116
+addStepInToFlight returns: Successfully added a new stepping airport MAD to flight 1117
+addStepInToFlight returns: Successfully added a new stepping airport AMS to flight 1117
+addStepInToFlight returns: Failed to add a new stepping airport HFA to flight 1112
+addStepInToFlight returns: Successfully added a new stepping airport BRC to flight 1118
+addStepInToFlight returns: Successfully added a new stepping airport MAD to flight 1118
+
+
+
+
+addParcel returns: Successfully added Product 11111 to order 55551
+addParcel returns: Successfully added Product 11115 to order 55553
+addParcel returns: Successfully added Product 11113 to order 55554
+addParcel returns: Successfully added Product 11112 to order 55515
+addParcel returns: Failed to add Product 11114 to order 55520
+addParcel returns: Successfully added Product 11115 to order 55516
+
+
+
+
+
+
+changeSellerAddress returns: Successfully changed address of seller: 00099991null
+
+changeSellerAddress returns: Successfully changed address of seller: 00099994null
+
+changeBuyerAddress returns: Failed to change address of buyer with account number 00099981
+
+changeSellerAddress returns: Successfully changed address of seller: 00099998null
+
+
+
+
+
+cancelOrder returns: Failed to cancel order 55558
+cancelOrder returns: Failed to cancel order 55558
+cancelOrder returns: Failed to cancel order 55552
+
+
+
+
+getTheMostProfitableOrder returns:
+
+Order [orderNumber=55551, buyer=Customer [accountNumber=00089912, firstName=Natali, lastName=Hemo], seller=Customer [accountNumber=00099991, firstName=Gilad, lastName=Levi], parcels=[Parcel [flight=========================Flight - 1111 details============================
+Source date: Thu Sep 01 00:00:00 IDT 2016
+Destination date: Fri Sep 02 00:00:00 IDT 2016
+Shipment cost: 30.5
+Flight source: MAD
+Flight destination: BRC
+Flight stops:
+1 - StepIn [airport: HFA Haifa, Israel]
+product=Product [productId=11111, productName=Iphone6s, price=700.0]]]]
+
+
+
+
+getAllOrdersOfMostProfitableBuyer returns:
+
+the following orders:
+
+1	- Order [orderNumber=55551, buyer=Customer [accountNumber=00089912, firstName=Natali, lastName=Hemo], seller=Customer [accountNumber=00099991, firstName=Gilad, lastName=Levi], parcels=[Parcel [flight=========================Flight - 1111 details============================
+Source date: Thu Sep 01 00:00:00 IDT 2016
+Destination date: Fri Sep 02 00:00:00 IDT 2016
+Shipment cost: 30.5
+Flight source: MAD
+Flight destination: BRC
+Flight stops:
+1 - StepIn [airport: HFA Haifa, Israel]
+product=Product [productId=11111, productName=Iphone6s, price=700.0]]]]
+2	- Order [orderNumber=55554, buyer=Customer [accountNumber=00089912, firstName=Natali, lastName=Hemo], seller=Customer [accountNumber=00099991, firstName=Gilad, lastName=Levi], parcels=[Parcel [flight=========================Flight - 1112 details============================
+Source date: Wed Sep 21 00:00:00 IDT 2016
+Destination date: Thu Sep 22 00:00:00 IDT 2016
+Shipment cost: 35.0
+Flight source: BRC
+Flight destination: MAD
+Flight stops:
+1 - StepIn [airport: HFA Haifa, Israel]
+2 - StepIn [airport: TLV Tel-aviv, Israel]
+product=Product [productId=11113, productName=LgG5, price=550.0]]]]
+
+
+
+
+flightAttendant of the month returns: 
+the following flightAttendant returned: FlightAttendant [employeeNumber=118, firstName=Yana, lastName=Alush, birthDate=Tue Mar 09 00:00:00 IST 1976, startWorkingDate=Mon Jan 01 00:00:00 IST 2007, Rank=1.0]
+
+
+
+
+getAllPilotsSortedBySeniority returns: 
+
+1	- Pilot [employeeNumber=227, firstName=Boaz, lastName=Levin, birthDate=Thu Apr 08 00:00:00 IST 1976, startWorkingDate=Thu Jan 01 00:00:00 IST 1998, licenses= [AIRBUSA319, AIRBUSA320]]
+2	- Pilot [employeeNumber=222, firstName=Zvi, lastName=Dayan, birthDate=Tue Nov 03 00:00:00 IST 1981, startWorkingDate=Mon Jan 01 00:00:00 IST 2001, licenses= [AIRBUSA320]]
+3	- Pilot [employeeNumber=223, firstName=Sami, lastName=Arel, birthDate=Sun Nov 04 00:00:00 IST 1979, startWorkingDate=Tue Jan 01 00:00:00 IST 2002, licenses= [BOEING747, BOEING737]]
+4	- Pilot [employeeNumber=224, firstName=Bar, lastName=Geva, birthDate=Thu Jan 05 00:00:00 IST 1978, startWorkingDate=Wed Jan 01 00:00:00 IST 2003, licenses= [BOEING737]]
+5	- Pilot [employeeNumber=225, firstName=Nadav, lastName=Ziv, birthDate=Mon Nov 06 00:00:00 IST 1978, startWorkingDate=Thu Jan 01 00:00:00 IST 2004, licenses= [AIRBUSA340]]
+6	- Pilot [employeeNumber=226, firstName=Oz, lastName=Kats, birthDate=Sat Oct 07 00:00:00 IST 1978, startWorkingDate=Sat Jan 01 00:00:00 IST 2005, licenses= [BOEING737]]
+7	- Pilot [employeeNumber=229, firstName=Gila, lastName=Eden, birthDate=Fri Aug 10 00:00:00 IST 1979, startWorkingDate=Sun Jan 01 00:00:00 IST 2006, licenses= [AIRBUSA320, AIRBUSA340]]
+8	- Pilot [employeeNumber=228, firstName=Shani, lastName=Alush, birthDate=Wed Jun 09 00:00:00 IST 1976, startWorkingDate=Mon Jan 01 00:00:00 IST 2007, licenses= [BOEING737]]
+9	- Pilot [employeeNumber=230, firstName=Noa, lastName=Levi, birthDate=Wed Sep 14 00:00:00 IST 1983, startWorkingDate=Thu Jan 01 00:00:00 IST 2009, licenses= [BOEING777]]
+10	- Pilot [employeeNumber=221, firstName=Ron, lastName=Gil, birthDate=Sun Sep 02 00:00:00 IST 1990, startWorkingDate=Fri Jan 01 00:00:00 IST 2010, licenses= [BOEING747, BOEING737]]
+
+
+
+
+getAllSellersSortedByName returns: 
+
+1	- Customer [accountNumber=00099992, firstName=Avi, lastName=Vizman]
+2	- Customer [accountNumber=00099999, firstName=Ben, lastName=Kim]
+3	- Customer [accountNumber=00099993, firstName=Dor, lastName=Kam]
+4	- Customer [accountNumber=00099997, firstName=Elad, lastName=Hen]
+5	- Customer [accountNumber=00099995, firstName=Gabi, lastName=Avni]
+6	- Customer [accountNumber=00099991, firstName=Gilad, lastName=Levi]
+7	- Customer [accountNumber=00099996, firstName=Lea, lastName=Arnon]
+8	- Customer [accountNumber=00099998, firstName=Shai, lastName=Alush]
+9	- Customer [accountNumber=00099994, firstName=Shani, lastName=Iluz]
+10	- Customer [accountNumber=00099910, firstName=Talya, lastName=Amar]
+
+
+
+
+getAllSellersSortedByRating returns: 
+
+1	- Customer [accountNumber=00099910, firstName=Talya, lastName=Amar]
+2	- Customer [accountNumber=00099999, firstName=Ben, lastName=Kim]
+3	- Customer [accountNumber=00099992, firstName=Avi, lastName=Vizman]
+4	- Customer [accountNumber=00099993, firstName=Dor, lastName=Kam]
+5	- Customer [accountNumber=00099997, firstName=Elad, lastName=Hen]
+6	- Customer [accountNumber=00099995, firstName=Gabi, lastName=Avni]
+7	- Customer [accountNumber=00099994, firstName=Shani, lastName=Iluz]
+8	- Customer [accountNumber=00099996, firstName=Lea, lastName=Arnon]
+9	- Customer [accountNumber=00099998, firstName=Shai, lastName=Alush]
+10	- Customer [accountNumber=00099991, firstName=Gilad, lastName=Levi]
+
+
+
+
+getBuyersOrdersSortedByCost returns: 
+
+1	- Customer [accountNumber=00089916, firstName=Don, lastName=Roz]
+Orders:
+[]
+
+2	- Customer [accountNumber=00089917, firstName=Oshri, lastName=Mimon]
+Orders:
+[]
+
+3	- Customer [accountNumber=00089918, firstName=Zvika, lastName=Ronen]
+Orders:
+[]
+
+4	- Customer [accountNumber=00089919, firstName=Yossi, lastName=Shabat]
+Orders:
+[Order [orderNumber=55515, buyer=Customer [accountNumber=00089919, firstName=Yossi, lastName=Shabat], seller=Customer [accountNumber=00099996, firstName=Lea, lastName=Arnon], parcels=[Parcel [flight=========================Flight - 1114 details============================
+Source date: Sun Sep 11 00:00:00 IDT 2016
+Destination date: Mon Sep 12 00:00:00 IDT 2016
+Shipment cost: 23.0
+Flight source: AMS
+Flight destination: MAD
+Flight stops:
+1 - StepIn [airport: RIO Rio de janeiro, Brazil]
+2 - StepIn [airport: BRC Barcelona, Spain]
+product=Product [productId=11112, productName=Iphone6sCase, price=2.0]]]], Order [orderNumber=55553, buyer=Customer [accountNumber=00089919, firstName=Yossi, lastName=Shabat], seller=Customer [accountNumber=00099998, firstName=Shai, lastName=Alush], parcels=[Parcel [flight=========================Flight - 1111 details============================
+Source date: Thu Sep 01 00:00:00 IDT 2016
+Destination date: Fri Sep 02 00:00:00 IDT 2016
+Shipment cost: 30.5
+Flight source: MAD
+Flight destination: BRC
+Flight stops:
+1 - StepIn [airport: HFA Haifa, Israel]
+product=Product [productId=11115, productName=SamsungS7Case, price=4.0]]]]]
+
+5	- Customer [accountNumber=00089912, firstName=Natali, lastName=Hemo]
+Orders:
+[Order [orderNumber=55554, buyer=Customer [accountNumber=00089912, firstName=Natali, lastName=Hemo], seller=Customer [accountNumber=00099991, firstName=Gilad, lastName=Levi], parcels=[Parcel [flight=========================Flight - 1112 details============================
+Source date: Wed Sep 21 00:00:00 IDT 2016
+Destination date: Thu Sep 22 00:00:00 IDT 2016
+Shipment cost: 35.0
+Flight source: BRC
+Flight destination: MAD
+Flight stops:
+1 - StepIn [airport: HFA Haifa, Israel]
+2 - StepIn [airport: TLV Tel-aviv, Israel]
+product=Product [productId=11113, productName=LgG5, price=550.0]]]], Order [orderNumber=55551, buyer=Customer [accountNumber=00089912, firstName=Natali, lastName=Hemo], seller=Customer [accountNumber=00099991, firstName=Gilad, lastName=Levi], parcels=[Parcel [flight=========================Flight - 1111 details============================
+Source date: Thu Sep 01 00:00:00 IDT 2016
+Destination date: Fri Sep 02 00:00:00 IDT 2016
+Shipment cost: 30.5
+Flight source: MAD
+Flight destination: BRC
+Flight stops:
+1 - StepIn [airport: HFA Haifa, Israel]
+product=Product [productId=11111, productName=Iphone6s, price=700.0]]]]]
+
+6	- Customer [accountNumber=00089913, firstName=Shaked, lastName=Lev]
+Orders:
+[]
+
+7	- Customer [accountNumber=00089914, firstName=Dan, lastName=Himan]
+Orders:
+[]
+
+8	- Customer [accountNumber=00089915, firstName=Din, lastName=Gal]
+Orders:
+[]
+
+9	- Customer [accountNumber=00089920, firstName=Meira, lastName=Levi]
+Orders:
+[Order [orderNumber=55516, buyer=Customer [accountNumber=00089920, firstName=Meira, lastName=Levi], seller=Customer [accountNumber=00099994, firstName=Shani, lastName=Iluz], parcels=[Parcel [flight=========================Flight - 1118 details============================
+Source date: Mon Sep 12 00:00:00 IDT 2016
+Destination date: Tue Sep 13 00:00:00 IDT 2016
+Shipment cost: 9.0
+Flight source: AMS
+Flight destination: RIO
+Flight stops:
+1 - StepIn [airport: BRC Barcelona, Spain]
+2 - StepIn [airport: MAD Madrid, Spain]
+product=Product [productId=11115, productName=SamsungS7Case, price=4.0]]]]]
+
