@@ -30,12 +30,12 @@
 
 package ibuyGUI;
 
-public class ContactEditor extends javax.swing.JFrame {
+public class Sample_ContactEditor extends javax.swing.JFrame {
     
     /**
      * Creates new form ContactEditor
      */
-    public ContactEditor() {
+    public Sample_ContactEditor() {
         initComponents();
     }
     
@@ -233,7 +233,7 @@ public class ContactEditor extends javax.swing.JFrame {
                         .add(jButton3)
                         .addPreferredGap(org.jdesktop.layout.LayoutStyle.RELATED)
                         .add(jButton4))
-                    .add(jScrollPane1, 0, 81, Short.MAX_VALUE))
+                    .add(jScrollPane1, 0, 0, Short.MAX_VALUE))
                 .addPreferredGap(org.jdesktop.layout.LayoutStyle.RELATED)
                 .add(jLabel7)
                 .addPreferredGap(org.jdesktop.layout.LayoutStyle.RELATED)
@@ -300,20 +300,21 @@ public class ContactEditor extends javax.swing.JFrame {
                     break;
                 }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(ContactEditor.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Sample_ContactEditor.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(ContactEditor.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Sample_ContactEditor.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(ContactEditor.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Sample_ContactEditor.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(ContactEditor.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(Sample_ContactEditor.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new ContactEditor().setVisible(true);
+                new Sample_ContactEditor().setVisible(true);
             }
         });
     }
