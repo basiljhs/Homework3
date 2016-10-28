@@ -5,7 +5,7 @@ addProduct 011113 LgG5 550
 addProduct 011114 Beats 200
 addProduct 011115 SamsungS7Case 4
 addProduct 011113 LgG5Case 3
-// ===============================================================================================================0
+// ===============================================================================================================
 // add new seller account - Customer(accountNumber, firstName, lastName, birthDate, password, email, address)____ Address(country, city, street, housNumber, phoneNumber)
 addSeller 00099991 Gilad  Levi  01/01/1988 gilad234 hTTp:\\gilad@Gmail.com Israel  Herzliya Herzel 22 052-8090939
 addSeller 00099992 Avi  Vizman 02/01/1990 avi234 hTTp:\\avi@Hotmail.co.il Israel  Holon Herzel 22 052-8198765
